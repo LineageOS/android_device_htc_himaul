@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2f7f8d_4f2e31a6",
+        "filename": "system.prop",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-09T05:50:03Z",
+      "side": 0,
+      "message": "show.act is the only one that is not actually showing up in any blobs. Everything else shows up in libril-qc-qmi-1.",
+      "revId": "ac9e540031abd8a65ae7cda5d7816d1ecdf26cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
