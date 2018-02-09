@@ -18,7 +18,7 @@
 $(call inherit-product-if-exists, vendor/htc/himaul/himaul-vendor.mk)
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+DEVICE_PACKAGE_OVERLAYS += device/htc/hima-common/overlay
 
 # common hima
 $(call inherit-product, device/htc/hima-common/hima.mk)
